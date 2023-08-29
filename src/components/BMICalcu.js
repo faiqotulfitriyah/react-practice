@@ -33,9 +33,9 @@ function BmiCalculator() {
 
 	return (
 		<div className="container">
-      <br></br>
-			<h1>Fiqa & Bryant's <br></br> BMI Calculator</h1>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png' className='logo'/>
+			<br></br>
+					<h1>Fiqa & Bryant's <br></br> BMI Calculator</h1>
+			<img src='https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png' className='logo'/>
 			<div className="input-container">
         <br></br>
 				<label htmlFor="height">Enter Your Height (cm):</label>
